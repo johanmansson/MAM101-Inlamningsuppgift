@@ -1,0 +1,163 @@
+fileFormatVersion: 2
+guid: 260efd47cc2aa7145b53f5bad7e4829c
+timeCreated: 1489669415
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Balcony&Terrace
+    100002: Ceiling
+    100004: Door-lining002
+    100006: Door-lining003
+    100008: Door-lining004
+    100010: Door-lining01
+    100012: Floor-lining
+    100014: Floorplan
+    100016: //RootNode
+    100018: Ventilation
+    100020: Walls_&_Floors
+    100022: Window 1
+    100024: Window 3
+    100026: Window 4
+    100028: Window 5
+    100030: Window 6
+    100032: Window 7
+    100034: Window 8
+    400000: Balcony&Terrace
+    400002: Ceiling
+    400004: Door-lining002
+    400006: Door-lining003
+    400008: Door-lining004
+    400010: Door-lining01
+    400012: Floor-lining
+    400014: Floorplan
+    400016: //RootNode
+    400018: Ventilation
+    400020: Walls_&_Floors
+    400022: Window 1
+    400024: Window 3
+    400026: Window 4
+    400028: Window 5
+    400030: Window 6
+    400032: Window 7
+    400034: Window 8
+    2300000: Balcony&Terrace
+    2300002: Ceiling
+    2300004: Door-lining002
+    2300006: Door-lining003
+    2300008: Door-lining004
+    2300010: Door-lining01
+    2300012: Floor-lining
+    2300014: Floorplan
+    2300016: Ventilation
+    2300018: Walls_&_Floors
+    2300020: Window 1
+    2300022: Window 3
+    2300024: Window 4
+    2300026: Window 5
+    2300028: Window 6
+    2300030: Window 7
+    2300032: Window 8
+    3300000: Balcony&Terrace
+    3300002: Ceiling
+    3300004: Door-lining002
+    3300006: Door-lining003
+    3300008: Door-lining004
+    3300010: Door-lining01
+    3300012: Floor-lining
+    3300014: Floorplan
+    3300016: Ventilation
+    3300018: Walls_&_Floors
+    3300020: Window 1
+    3300022: Window 3
+    3300024: Window 4
+    3300026: Window 5
+    3300028: Window 6
+    3300030: Window 7
+    3300032: Window 8
+    4300000: Floorplan
+    4300002: Walls_&_Floors
+    4300004: Window 1
+    4300006: Window 3
+    4300008: Window 4
+    4300010: Window 5
+    4300012: Window 6
+    4300014: Window 7
+    4300016: Window 8
+    4300018: Ceiling
+    4300020: Door-lining01
+    4300022: Door-lining002
+    4300024: Door-lining003
+    4300026: Door-lining004
+    4300028: Floor-lining
+    4300030: Ventilation
+    4300032: Balcony&Terrace
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
